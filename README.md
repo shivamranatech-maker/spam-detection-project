@@ -1,16 +1,16 @@
 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project classifies SMS messages as **Spam** or **Ham (Not Spam)** using Machine Learning techniques. The model is trained on the SMS Spam Collection Dataset and utilizes **TF-IDF Vectorization** for feature extraction along with the **Multinomial Naive Bayes (MNB)** algorithm for classification.
 
 The objective is to automatically identify unwanted spam messages and improve communication security by filtering potentially harmful content.
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Spam messages are a major challenge in digital communication. They often contain advertisements, scams, phishing links, or misleading information. The goal of this project is to develop a machine learning model capable of accurately distinguishing between legitimate messages (Ham) and unwanted messages (Spam).
 
-## 📊 Dataset Information
+##  Dataset Information
 
 - **Dataset:** SMS Spam Collection Dataset
 - **Total Messages:** 5,572
@@ -18,7 +18,7 @@ Spam messages are a major challenge in digital communication. They often contain
   - Ham (Legitimate Messages)
   - Spam (Unwanted Messages)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -29,7 +29,7 @@ Spam messages are a major challenge in digital communication. They often contain
 - Git & GitHub
 
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 1. Data Collection
 2. Data Cleaning
@@ -40,7 +40,7 @@ Spam messages are a major challenge in digital communication. They often contain
 7. Model Evaluation
 8. Spam/Ham Prediction
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 
 The following preprocessing steps were performed before training the model:
 
@@ -66,7 +66,7 @@ TF-IDF (Term Frequency–Inverse Document Frequency) converts text data into num
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 ### Multinomial Naive Bayes (MNB)
 
@@ -76,7 +76,7 @@ Multinomial Naive Bayes is a probabilistic machine learning algorithm widely use
 - accuracy:0.9709864603481625
 - precision:1.0
   
-## 💡 Features
+##  Features
 
 - Detects Spam and Ham messages.
 - Fast prediction response.
@@ -86,7 +86,7 @@ Multinomial Naive Bayes is a probabilistic machine learning algorithm widely use
 
 
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Support for multiple languages.
 - Real-time SMS filtering.
@@ -95,7 +95,7 @@ Multinomial Naive Bayes is a probabilistic machine learning algorithm widely use
 - Cloud deployment for public access.
 
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, the following concepts were learned and implemented:
 
