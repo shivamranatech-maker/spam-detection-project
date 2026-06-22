@@ -75,5 +75,36 @@ Multinomial Naive Bayes is a probabilistic machine learning algorithm widely use
 ## Model evaluation
 - accuracy:0.9709864603481625
 - precision:1.0
+  
+## 💡 Features
+
+- Detects Spam and Ham messages.
+- Fast prediction response.
+- User-friendly interface.
+- Efficient text processing.
+- Lightweight and easy to deploy.
+
+
+
+## 🚀 Future Enhancements
+
+- Support for multiple languages.
+- Real-time SMS filtering.
+- Integration with mobile applications.
+- Deep Learning implementation using LSTM or BERT.
+- Cloud deployment for public access.
+
+
+## 📚 Learning Outcomes
+
+Through this project, the following concepts were learned and implemented:
+
+- Natural Language Processing (NLP)
+- Text Cleaning and Preprocessing
+- TF-IDF Vectorization
+- Machine Learning Classification
+- Model Evaluation Techniques
+- Streamlit Deployment
+- GitHub Project Management
 
 
