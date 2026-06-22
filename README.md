@@ -73,7 +73,7 @@ TF-IDF (Term Frequency–Inverse Document Frequency) converts text data into num
 Multinomial Naive Bayes is a probabilistic machine learning algorithm widely used for text classification tasks.
 
 ## Model evaluation
-- **accuracy:**0.9709864603481625
-- **precision:**1.0
+- accuracy:0.9709864603481625
+- precision:1.0
 
 
