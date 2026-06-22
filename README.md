@@ -53,7 +53,7 @@ The following preprocessing steps were performed before training the model:
 
 ---
 
-## 📈 Feature Extraction
+## Feature Extraction
 
 ### TF-IDF Vectorization
 
@@ -72,8 +72,8 @@ TF-IDF (Term Frequency–Inverse Document Frequency) converts text data into num
 
 Multinomial Naive Bayes is a probabilistic machine learning algorithm widely used for text classification tasks.
 
-**Why MNB?**
-- Fast and efficient.
-- Works exceptionally well with text data.
-- Handles high-dimensional sparse data effectively.
-- Suitable for spam detection applications.
+## Model evaluation
+- **accuracy:**0.9709864603481625
+- **precision:**1.0
+
+
